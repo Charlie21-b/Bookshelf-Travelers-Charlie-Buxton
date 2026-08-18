@@ -1,0 +1,23 @@
+body{
+  background: #ff00a2;
+}
+img{
+  width: 300px;
+  border-radius: 20%;
+}
+h1{
+  color: blueviolet;
+  text-align: center;
+  font-weight: bold;
+  -webkit-text-stroke: 2px black;
+}
+P{
+  width: 350px;
+  height: auto;
+  background: gold;
+  padding: 20px;
+  text-align: left;
+  border-radius: 40%;
+  float: left;
+  shape-margin: 15px;
+}
