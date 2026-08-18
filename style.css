@@ -7,13 +7,13 @@ img{
 }
 h1{
   color: blueviolet;
-  text-font: cursive;
+  font-family: cursive;
   text-align: center;
   font-weight: bold;
   -webkit-text-stroke: 2px black;
 }
 P{
-  text-font: fantasy;
+  font-family: fantasy;
   width: 350px;
   height: auto;
   background: gold;
