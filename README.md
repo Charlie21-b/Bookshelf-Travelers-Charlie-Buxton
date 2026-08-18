@@ -1,6 +1,6 @@
 # 📚 Bookshelf Travelers - Website
 
-Welcome to the official repository for my children's book website! This site is designed to introduce young readers and parents to the story of Barnaby the puppy and help them find where to buy the book.
+Welcome to the official repository for my children's book website! This site is designed to introduce young readers and parents to the story of Max and Brody and help them find where to buy the book.
 
 ## 🚀 Live Demo
 You can view the live, published website here: 
