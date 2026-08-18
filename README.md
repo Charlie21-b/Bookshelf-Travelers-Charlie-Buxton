@@ -3,7 +3,7 @@
 Welcome to the official repository for my children's book website! This site is designed to introduce young readers and parents to the story of Max and Brody and help them find where to buy the book.
 
 ## 🚀 Live Demo
-You can view the live, published website here: 
+You can view the live, published websites here: 
 👉  [https://studio.code.org/projects/weblab2/22fd5e34-8fe2-4383-be79-82aebdb074a8 ] (https://charlie21-b.github.io/Bookshelf-Travelers-Charlie-Buxton/)
 
 ## ✨ Features
