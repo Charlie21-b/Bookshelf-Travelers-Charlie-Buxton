@@ -4,7 +4,7 @@ Welcome to the official repository for my children's book website! This site is 
 
 ## 🚀 Live Demo
 You can view the live, published website here: 
-👉  https://studio.code.org/projects/weblab2/22fd5e34-8fe2-4383-be79-82aebdb074a8 
+👉  [https://studio.code.org/projects/weblab2/22fd5e34-8fe2-4383-be79-82aebdb074a8 ] (https://charlie21-b.github.io/Bookshelf-Travelers-Charlie-Buxton/)
 
 ## ✨ Features
 * **SEO Optimized:** Built with clean HTML tags, meta descriptions, and image alt text so parents can find it on Google.
